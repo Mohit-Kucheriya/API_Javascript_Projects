@@ -8,10 +8,10 @@ To learn how to handle JSON data and manipulate the DOM.
 
 # Skills Covered:
 
-JavaScript (ES6+)
-Asynchronous Programming
-Fetch API
-JSON Parsing
-DOM Manipulation
-Error Handling
-Basic HTML & CSS
+1. JavaScript (ES6+)
+2 .Asynchronous Programming
+3. Fetch API
+4. JSON Parsing
+5. DOM Manipulation
+6. Error Handling
+7. Basic HTML & CSS
