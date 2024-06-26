@@ -1,4 +1,4 @@
-# Practicing API projects in JavaScript is a great way to develop our skills in web development, understand how to interact with external services, and handle asynchronous operations.
+Practicing API projects in JavaScript is a great way to develop our skills in web development, understand how to interact with external services, and handle asynchronous operations.
 
 # Objective:
 
