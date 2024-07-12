@@ -1,7 +1,10 @@
 # API JavaScript Projects
 
-## Image
-![Image Alt](https://github.com/Mohit-Kucheriya/API_Javascript_Projects/blob/0e221180ffdabe0138d6d703d1bc6871614f55e7/API-Image.png)
+## Screenshot
+![Screenshot 1](https://github.com/Mohit-Kucheriya/API_Javascript_Projects/blob/953f7f10dbdcadef698f5453483db441b8c05d68/Screenshot/1.png)<br/>
+![Screenshot 2](https://github.com/Mohit-Kucheriya/API_Javascript_Projects/blob/953f7f10dbdcadef698f5453483db441b8c05d68/Screenshot/2.png)<br/>
+![Screenshot 3](https://github.com/Mohit-Kucheriya/API_Javascript_Projects/blob/953f7f10dbdcadef698f5453483db441b8c05d68/Screenshot/3.png)<br/>
+![Screenshot 4](https://github.com/Mohit-Kucheriya/API_Javascript_Projects/blob/953f7f10dbdcadef698f5453483db441b8c05d68/Screenshot/4.png)
 
 
 ## Objective
