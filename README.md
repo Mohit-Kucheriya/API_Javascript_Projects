@@ -1,5 +1,9 @@
 # API JavaScript Projects
 
+## Image
+![Image Alt](https://github.com/Mohit-Kucheriya/API_Javascript_Projects/blob/0e221180ffdabe0138d6d703d1bc6871614f55e7/API-Image.png)
+
+
 ## Objective
 Practicing API projects in JavaScript is a great way to develop our skills in web development, understand how to interact with external services, and handle asynchronous operations. The goals are:
 
